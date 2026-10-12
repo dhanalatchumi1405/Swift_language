@@ -13,3 +13,13 @@ print("The sum is:\(a+b)")
 let a=10
 let b=20
 print("The product is:\(a*b)")
+
+
+
+print("Hello Everyone")
+let name:String="dhanam"
+print("Hello\(name)")
+ 
+let a=20
+let b=30
+print("Total:\(a+b)")
