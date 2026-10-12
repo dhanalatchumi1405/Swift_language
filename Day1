@@ -1,8 +1,0 @@
-let a=10
-let b=20
-if a>b{
-    print("a is greater")
-}
-else{
-    print("a is smaller")
-}
