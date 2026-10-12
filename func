@@ -2,3 +2,10 @@ func sub(_ a:Int,_ b:Int)-> Int{
     return a - b
 }
 print(sub(5,2))
+
+//
+
+func mod(_ a:Int,_ b:Int)->Int{
+    return a%b
+}
+print(mod(10,4))
