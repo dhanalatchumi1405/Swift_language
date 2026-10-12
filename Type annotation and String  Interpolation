@@ -1,0 +1,15 @@
+// Type annotation
+let name:String="dhanam"
+let age:Int=20
+let perc:Double=32.222
+print(name,age,perc)
+
+//String interpolation
+let a=10
+let b=20
+print("The sum is:\(a+b)")
+
+
+let a=10
+let b=20
+print("The product is:\(a*b)")
