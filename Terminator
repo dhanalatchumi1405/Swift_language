@@ -1,0 +1,7 @@
+//Terminator...> it is used to print in a single line
+var age:Int=20
+let percent:Double=8.23
+let name:String="dhanam"
+print(age,terminator:" ")
+print(percent,terminator:" ")
+print(name)
