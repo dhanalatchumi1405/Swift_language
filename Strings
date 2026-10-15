@@ -1,0 +1,5 @@
+let x="dhanam"
+let y="Devi"
+print(x+""+y)
+print(x.count)
+print(x.isEmpty)
