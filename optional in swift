@@ -1,0 +1,4 @@
+let a=Int("Helloo")
+let b=Double(100)
+print(a)
+print(b)
