@@ -2,3 +2,10 @@ let a=Int("Helloo")
 let b=Double(100)
 print(a)
 print(b)
+
+
+
+// one more type
+var score: Int? = nil
+score = 100
+print(score)
