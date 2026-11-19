@@ -1,0 +1,19 @@
+let day=5
+switch case{
+case 1:
+ print("Monday")
+case 2:
+ print("Tuesday")
+case3:
+ print("wednesday")
+case4:
+ print("Thursday)
+case5:
+ print("Friday")
+case6:
+ print("saturday")
+case:
+ print("sunday")
+default:
+ print("Invalid day")
+}
